@@ -2,7 +2,7 @@ body {
 	background: black;
 }
 * {
-	border: 1px dashed red;
+	border: 1px red;
 	min-height: 10px;
 }
 .postcard {
@@ -29,6 +29,6 @@ body {
 	text-align: center;
 }
 button {
-	background-color: rgb(97, 91, 91);
+	background-color: rgb(124, 117, 117);
 	padding: 15px;
 }
